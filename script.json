@@ -1,0 +1,50 @@
+[
+    {
+        "q":"Who became the Prime Minister of Pakistan in June 2012?",
+       "options" :[{"optionA":"Makhdoom Shahabuddin"},
+        {"optionB":"Maulana Fazlur Rehman"},
+        {"optionC":"aja Perviz Ashraf"},
+        {"optionD":"Sardar Mehtab Abbasi"}],
+        "Ans":"aja Perviz Ashraf"
+    },
+    {
+        "q":"Who was the first person to be awarded the Bharat Ratna posthumously?",
+       "options": [{"optionA":"Rajiv Gandhi"},
+        {"optionB":"Vinoba Bhave"},
+        {"optionC":"Indira gandhi"},
+        {"optionD":"Lal Bahadur Shastri"}],
+        "Ans":"Lal Bahadur Shastri"
+    },
+    {
+        "q":"Which Viceroy of India was the great-grandson of Britain’s Queen Victoria?",
+       "options":[ { "optionA":"Lord Wavell"},
+        {"optionB":"Lord Linlithgow"},
+        {"optionC":"Lord Willington "},
+        {"optionD":"Lord Mountbatten"}],
+        "Ans":"Lord Mountbatten"
+    },
+    {
+        "q":"Which of the following is the currency of Japan?",
+        "options":[{"optionA":"Yen"},
+        {"optionB":"Baht"},
+        {"optionC":"Yuan"},
+        {"optionD":"Won"}],
+        "Ans":"Yen"
+    },
+    {
+        "q":"Which song written by Gulzar won an Oscar award?",
+        "options":[{"optionA":"O Saaya"},
+        {"optionB":"Jao Ho"},
+        {"optionC":"Dhan Te nan"},
+        {"optionD":"Beedi"}],
+        "Ans":"Jai Ho"
+    },
+    {
+        "q":"The National Open University is run by",
+        "options":[{"optionA":"CBSE"},
+            {"optionB":"UGC"},
+            {"optionC":"IGNOU"},
+            {"optionD":"NCERT"}],
+        "Ans":"UGC"
+    }
+]
